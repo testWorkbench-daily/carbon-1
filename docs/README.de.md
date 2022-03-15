@@ -29,7 +29,7 @@ Kennen wir nicht alle [diese](https://twitter.com/dan_abramov/status/89019181556
 
 ## Feature
 
-- **Importiere Github Gists**. Hänge einfach eine Github Gist ID der URL an
+- **Importiere GitHub Gists**. Hänge einfach eine GitHub Gist ID der URL an
 - **Anpassungen**. Wähle zwischen unterschiedlichen Syntax Themes, Window Styles und vielen weiteren Dingen
 - **Teile sofort**. Speichere dein Bild oder tweete einen Link mit nur einem Klick
 
@@ -40,7 +40,7 @@ Kennen wir nicht alle [diese](https://twitter.com/dan_abramov/status/89019181556
 Code kann man in Carbon auf unterschiedliche Weisen importieren:
 
 - Schiebe eine Datei in den Editor
-- Hänge eine Github Gist ID an die URL an (z.B. [`carbon.now.sh/<gist_id_hier>`](https://carbon.now.sh/3208813b324d82a9ebd197e4b1c3bae8))
+- Hänge eine GitHub Gist ID an die URL an (z.B. [`carbon.now.sh/<gist_id_hier>`](https://carbon.now.sh/3208813b324d82a9ebd197e4b1c3bae8))
 - Füge Code direkt aus der Zwischenablage ein
 
 #### Anpassung
